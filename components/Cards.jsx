@@ -25,8 +25,8 @@ export default function Cards() {
             <CardBody>
               <div>
                 <p>
-                  What are 5 creative things I could do with my kids' art? I
-                  don't want to throw them away, but it's also so much clutter.
+                  What are 5 creative things I could do with my kids art? I
+                  dont want to throw them away, but its also so much clutter.
                 </p>
               </div>
             </CardBody>
@@ -41,8 +41,8 @@ export default function Cards() {
             <CardBody>
               <div className="w-[770px]">
                 <p>
-                  Certainly! Here's a summary of five creative ways to use your
-                  kids' art: Create Art Books: Turn scanned artwork into custom
+                  Certainly! Heres a summary of five creative ways to use your
+                  kids art: Create Art Books: Turn scanned artwork into custom
                   photo books. Set Up a Gallery Wall: Use a dedicated wall with
                   interchangeable frames for displaying art. Make Functional
                   Items: Print designs on items like pillows, bags, or mugs.
@@ -67,7 +67,7 @@ export default function Cards() {
           <Card className="m-5">
             <CardBody>
               <div className="w-[770px]">
-                <p>I didn't like the suggestions. Can you give me some more?</p>
+                <p>I didnt like the suggestions. Can you give me some more?</p>
               </div>
             </CardBody>
           </Card>
@@ -82,11 +82,11 @@ export default function Cards() {
               <div className="w-[770px]">
                 <p>
                   Of course! Here are five more creative suggestions for what to
-                  do with your children's art: Create a Digital Archive: Scan or
+                  do with your children art Create a Digital Archive Scan or
                   take photos of the artwork and save it in a digital cloud
                   storage service for easy access and space-saving. Custom
                   Calendar: Design a custom calendar with each month showcasing
-                  a different piece of your child's art. Storybook Creation:
+                  a different piece of your child art. Storybook Creation:
                   Compile the artwork into a storybook, possibly with a
                   narrative created by your child, to make a personalized book.
                   Puzzle Making: Convert their artwork into a jigsaw puzzle for

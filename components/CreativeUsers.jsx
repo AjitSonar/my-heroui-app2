@@ -192,7 +192,7 @@ export default function CreativeUsers() {
 
       <div>
         <div className="flex justify-between mt-5 px-10 flex-wrap gap-4">
-          <h3>Creative Uses for Kids' Art</h3>
+          <h3>Creative Uses for Kids Art</h3>
 
           <Tabs aria-label="Tabs sizes">
             <Tab key="Creative" title="Creative" />
@@ -304,7 +304,7 @@ export default function CreativeUsers() {
               </Button>
             </div>
             <p className="py-1 text-tiny text-default-400">
-              {prompt.length}/2000
+              1/2000
             </p>
           </div>
         </div>
